@@ -1,0 +1,17 @@
+C:\Users\Apollus\source\repos\SimpleRestServer\SimpleRestServer\bin\Release\netcoreapp2.1\win-x86\hostpolicy.dll
+C:\Users\Apollus\source\repos\SimpleRestServer\SimpleRestServer\bin\Release\netcoreapp2.1\win-x86\hostfxr.dll
+C:\Users\Apollus\source\repos\SimpleRestServer\SimpleRestServer\bin\Release\netcoreapp2.1\win-x86\SimpleRestServer.exe
+C:\Users\Apollus\source\repos\SimpleRestServer\SimpleRestServer\bin\Release\netcoreapp2.1\win-x86\SimpleRestServer.deps.json
+C:\Users\Apollus\source\repos\SimpleRestServer\SimpleRestServer\bin\Release\netcoreapp2.1\win-x86\SimpleRestServer.runtimeconfig.json
+C:\Users\Apollus\source\repos\SimpleRestServer\SimpleRestServer\bin\Release\netcoreapp2.1\win-x86\SimpleRestServer.runtimeconfig.dev.json
+C:\Users\Apollus\source\repos\SimpleRestServer\SimpleRestServer\bin\Release\netcoreapp2.1\win-x86\SimpleRestServer.dll
+C:\Users\Apollus\source\repos\SimpleRestServer\SimpleRestServer\bin\Release\netcoreapp2.1\win-x86\SimpleRestServer.pdb
+C:\Users\Apollus\source\repos\SimpleRestServer\SimpleRestServer\obj\Release\netcoreapp2.1\win-x86\SimpleRestServer.csprojAssemblyReference.cache
+C:\Users\Apollus\source\repos\SimpleRestServer\SimpleRestServer\obj\Release\netcoreapp2.1\win-x86\SimpleRestServer.csproj.CoreCompileInputs.cache
+C:\Users\Apollus\source\repos\SimpleRestServer\SimpleRestServer\obj\Release\netcoreapp2.1\win-x86\SimpleRestServer.RazorAssemblyInfo.cache
+C:\Users\Apollus\source\repos\SimpleRestServer\SimpleRestServer\obj\Release\netcoreapp2.1\win-x86\SimpleRestServer.RazorAssemblyInfo.cs
+C:\Users\Apollus\source\repos\SimpleRestServer\SimpleRestServer\obj\Release\netcoreapp2.1\win-x86\SimpleRestServer.AssemblyInfoInputs.cache
+C:\Users\Apollus\source\repos\SimpleRestServer\SimpleRestServer\obj\Release\netcoreapp2.1\win-x86\SimpleRestServer.AssemblyInfo.cs
+C:\Users\Apollus\source\repos\SimpleRestServer\SimpleRestServer\obj\Release\netcoreapp2.1\win-x86\SimpleRestServer.RazorTargetAssemblyInfo.cache
+C:\Users\Apollus\source\repos\SimpleRestServer\SimpleRestServer\obj\Release\netcoreapp2.1\win-x86\SimpleRestServer.dll
+C:\Users\Apollus\source\repos\SimpleRestServer\SimpleRestServer\obj\Release\netcoreapp2.1\win-x86\SimpleRestServer.pdb

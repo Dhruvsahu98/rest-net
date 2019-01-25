@@ -1,0 +1,14 @@
+C:\Users\Apollus\source\repos\SimpleRestServer\SimpleRestServer\bin\Debug\netcoreapp2.1\SimpleRestServer.deps.json
+C:\Users\Apollus\source\repos\SimpleRestServer\SimpleRestServer\bin\Debug\netcoreapp2.1\SimpleRestServer.runtimeconfig.json
+C:\Users\Apollus\source\repos\SimpleRestServer\SimpleRestServer\bin\Debug\netcoreapp2.1\SimpleRestServer.runtimeconfig.dev.json
+C:\Users\Apollus\source\repos\SimpleRestServer\SimpleRestServer\bin\Debug\netcoreapp2.1\SimpleRestServer.dll
+C:\Users\Apollus\source\repos\SimpleRestServer\SimpleRestServer\bin\Debug\netcoreapp2.1\SimpleRestServer.pdb
+C:\Users\Apollus\source\repos\SimpleRestServer\SimpleRestServer\obj\Debug\netcoreapp2.1\SimpleRestServer.csproj.CoreCompileInputs.cache
+C:\Users\Apollus\source\repos\SimpleRestServer\SimpleRestServer\obj\Debug\netcoreapp2.1\SimpleRestServer.RazorAssemblyInfo.cache
+C:\Users\Apollus\source\repos\SimpleRestServer\SimpleRestServer\obj\Debug\netcoreapp2.1\SimpleRestServer.RazorAssemblyInfo.cs
+C:\Users\Apollus\source\repos\SimpleRestServer\SimpleRestServer\obj\Debug\netcoreapp2.1\SimpleRestServer.AssemblyInfoInputs.cache
+C:\Users\Apollus\source\repos\SimpleRestServer\SimpleRestServer\obj\Debug\netcoreapp2.1\SimpleRestServer.AssemblyInfo.cs
+C:\Users\Apollus\source\repos\SimpleRestServer\SimpleRestServer\obj\Debug\netcoreapp2.1\SimpleRestServer.RazorTargetAssemblyInfo.cache
+C:\Users\Apollus\source\repos\SimpleRestServer\SimpleRestServer\obj\Debug\netcoreapp2.1\SimpleRestServer.dll
+C:\Users\Apollus\source\repos\SimpleRestServer\SimpleRestServer\obj\Debug\netcoreapp2.1\SimpleRestServer.pdb
+C:\Users\Apollus\source\repos\SimpleRestServer\SimpleRestServer\obj\Debug\netcoreapp2.1\SimpleRestServer.csprojAssemblyReference.cache
